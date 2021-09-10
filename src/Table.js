@@ -5,6 +5,7 @@ const TableHeader = () => (
     <tr>
       <th>Name</th>
       <th>Job</th>
+      <th></th>
     </tr>
   </thead>
 )
